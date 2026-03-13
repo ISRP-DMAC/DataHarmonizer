@@ -1,4 +1,4 @@
-#Welcome to the DataHarmonizer page!
+# Welcome to the DataHarmonizer page!
 
 Click [here](https://github.com/ISRP-DMAC/DataHarmonizer) to locate the appropriate DataHarmonizer zip file for your project. 
 
