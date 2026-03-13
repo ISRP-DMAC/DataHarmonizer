@@ -1,4 +1,4 @@
-Welcome to the DataHarmonizer wiki!
+Welcome to the DataHarmonizer page!
 
 Click [here](https://github.com/ISRP-DMAC/DataHarmonizer/blob/main/ISRP_DataHarmonizer.zip) to download DataHarmonizer zip file. 
 
