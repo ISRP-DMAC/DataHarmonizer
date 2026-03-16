@@ -1,6 +1,6 @@
 # Welcome to the DataHarmonizer page!
 
-Click [here](https://github.com/ISRP-DMAC/DataHarmonizer) to locate the appropriate DataHarmonizer zip file for your project. 
+Locate the appropriate DataHarmonizer zip file for your project. 
 
 **Step 1:** Click on the project folder (e.g., Project4) <br/>
 **Step 2:** Hover your mouse over the zip file (e.g., ISRP_DataHarmonizerP4.zip) and click it.<br/>
